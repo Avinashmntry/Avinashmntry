@@ -1,11 +1,1 @@
-- 👋 Hi, I’m @Avinashmntry i'm  a passionate writer, digital marketing manager, and dedicated practitioner of yoga.
-- With a deep-rooted interest in exploring truth and self-discovery, i have been actively engaged in the practice of yoga for the past four years.
-- My journey on the yogic path has not only enriched my life but has also inspired others.
-- 👀 I’m interested in Digital Marketing, Yoga, Spirituality...
-- 🌱 I’m currently learning HTML, CSS, Java Script...
-- 💞️ I’m looking to collaborate on Gihtub...
-
-<!---
-Avinashmntry/Avinashmntry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a passionate writer with a focus on technology. With a keen interest in topics such as technology, Android, Windows, games, and gadgets, I bring my expertise and enthusiasm to create engaging content. As an avid explorer of the ever-evolving world of technology, I write articles to provide valuable insights, tips, and recommendations for tech enthusiasts. See my Blog here - www.geekzstreat.com
